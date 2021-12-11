@@ -1,0 +1,160 @@
+div#AwA{
+	background-color: #f7ea71;
+	width: 1500px;
+	height: 1600px;
+	margin: 0px;
+}
+
+div#Cabezal{
+	background-color: #223F42;
+	width: 1500px;
+	height: 200px;
+	margin: 0px;
+}
+
+div#logo{
+	background-color: rebeccapurple;
+	width: 200px;
+	height: 200px;
+	margin: 0px 0px 0px 100px;
+}
+div#accesos{
+	background-color: #DFA46E;
+	width: 380px;
+	height: 30px;
+	margin: -130px 0px 0px 500px;
+	border-radius: 0px 0px 0px 0px;
+-moz-border-radius: 0px 0px 0px 0px;
+-webkit-border-radius: 0px 0px 0px 0px;
+border: 14px solid #000000;
+}
+div#Contenido{
+	background-color: #223F42;
+	width: 1500px;
+	height: 1500px;
+	margin: 0px;
+}
+
+div#titulo{
+	background-color: #DFA46E;
+	width: 500px;
+	height: 90px;
+	margin: 0px 0px 0px 500px;
+}
+div#Caja1{
+	background-color: #DFA46E;
+	width: 1000px;
+	height: 200px;
+	margin: 100px 50px 0px 450px;
+}
+div#Imag{
+	width: 500px;
+	height: 500px;
+	margin: -225px 0px 0px 125px;
+}
+div#caja2{
+	background-color: #DFA46E;
+	width: 1000px;
+	height: 200px;
+	margin: -150px 250px 0px 250px;
+}
+div#caja3{
+	background-color: #DFA46E;
+	width: 1000px;
+	height: 200px;
+	margin: 100px 250px 0px 250px;
+}
+div#informacion{
+	background-color: #223F42;
+	width: 1500px;
+	height: 200px;
+	margin: 200px 0px 0px 0px;
+}
+div#Menu{
+	background-color: #223F42;
+	width: 1300px;
+	height: 1000px;
+	margin: 50px 100px 0px 100px;
+}
+div#titulo1{
+	background-color: #DFA46E;
+	width: 500px;
+	height: 90px;
+	margin: 0px 0px 0px 400px;
+}
+div#Region1{
+	background-color: #223F42;
+	width: 500px;
+	height: 150px;
+	margin: 0px 0px 0px 100px;
+}
+div#Region2{
+	background-color: #223F42;
+	width: 500px;
+	height: 150px;
+	margin: -170px 0px 0px 700px;
+}
+div#Region3{
+	background-color: #223F42;
+	width: 500px;
+	height: 150px;
+	margin: 0px 0px 0px 100px;
+}
+div#Region4{
+	background-color: #223F42;
+	width: 500px;
+	height: 150px;
+	margin: -170px 0px 0px 700px;
+}
+div#Region5{
+	background-color: #223F42;
+	width: 500px;
+	height: 150px;
+	margin: 0px 0px 0px 100px;
+}
+div#Region6{
+	background-color: #223F42;
+	width: 500px;
+	height: 150px;
+	margin: -170px 0px 0px 700px;
+}
+div#BEBIDAS{
+	background-color: #223F42;
+	width: 500px;
+	height: 150px;
+	margin: 0px 0px 0px 100px;
+}
+div#POSTRES{
+	background-color: #223F42;
+	width: 500px;
+	height: 150px;
+	margin: -170px 0px 0px 700px;
+}
+div#Galeria{
+	background-color: #223F42;
+	width: 1220px;
+	height: 1010px;
+	margin: 50px 140px 0px 140px;
+}
+div#Promociones{
+	background-color: #223F42;
+	width: 1000px;
+	height: 1000px;
+	margin: 50px 250px 0px 250px;
+}
+div#Titulo2{
+	background-color: #DFA46E;
+	width: 500px;
+	height: 100px;
+	margin: 0px 250px 0px 250px;
+	}
+div#Promos{
+	background-color: #DFA46E;
+	width: 200px;
+	height: 200px;
+	margin: 0px 40px 0px 40px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 0px solid #000000;
+}
